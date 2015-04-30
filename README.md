@@ -60,7 +60,7 @@
 <p>“这是目前公开的规模最大的大数据应用。”硅谷企业家、《信誉经济学》(The Reputation Economy)作家Michael Fertik说。“这绝对像是你噩梦中的奥威尔监控社会。另一方面，中共一直以来给中国人评分，这个大数据版的升级，也很可能是无法避免的。任何指令性国家都希望能这么使用数据。”<br><br><em>本文由泡泡翻译，原文英文版发表于<a href="http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/" rel="nofollow">荷兰《人民报》（de Volkskrant）</a>。</em></p></body></html>
 </p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/429" target="paopao-mirror">运动式净网推专项行动  火力对准港台媒体</a>
 </h2>
@@ -686,7 +686,7 @@
 <p> </p></body></html>
 </p>
 <p>
-	<small> ============== 31天前</small>
+	<small> ============== 32天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/403" target="paopao-mirror">中国封杀有关CNNIC发布中间人证书的文章</a>
 </h2>
