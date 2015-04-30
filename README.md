@@ -140,7 +140,7 @@
 <p><img height="545" width="658" typeof="foaf:Image" src="../../raw/master/x/738f4e42d5ab865f5ff7774b114dfc01_6" alt="" title=""></p></body></html>
 </p>
 <p>
-	<small> ============== 6天前</small>
+	<small> ============== 7天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/425" target="paopao-mirror">投票：翻墙工具是否应该付费？</a>
 </h2>
