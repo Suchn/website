@@ -24,6 +24,22 @@
 	
 </table>
 <h2>
+	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/431" target="paopao-mirror">金钱驱动的“实名制”也成打压工具</a>
+</h2>
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><p><strong>Facebook推行实名制，初衷并不是为了严厉监控网民思想，而是钱作怪。但“实名制”却成为另类打压异见的工具。</strong><br><br>提起<a href="https://d1rnppgpv4u79x.cloudfront.net/node/259" rel="nofollow">网络"实名制"</a>，中国人民绝不会陌生。官方声称将于今年正式全面监管互联网，连微信等私人通讯程式都要推行实名制。本月中旬，中共中央办公厅和国务院办公厅甚至公布《关于加强社会治安防控体系建设的意见》，建议公民信息一卡通制度，让身分证号码不只记录持有人姓名、地址和出生日期，还有其信用卡、酒店入住纪录、乘搭过的飞机、火车、高铁的班次、社会保险等私隐资料。卡中的所有信息将连结到全国公安系统的内部资料库，供全国各地数以百万计的公安随时查阅。这当然引起中国网民及网络自由倡议者强烈反弹。<br><br>相比起中国官方以法律和刑罚强制执行网络实名制，私人企业Facebook推行这政策便显得软弱无力。事实上，Facebook也一直沿用“实名制”。虽然Facebook产品长Christopher Cox曾<a href="https://www.facebook.com/chris.cox/posts/10101301777354543" rel="nofollow">在个人帐号向受实名制影响的同性恋、双性恋与跨性别社群道歉</a>，并同时强调Facebook的实名制并非指法律上名字，而是现实生活应用的真名 (authentic name they use in real life)。<strong>可惜，实名制却成为另类打压异见的工具，使香港和台湾网民，特别是社运人士大为不满。</strong></p>
+<h2><strong>实名制政策被政治利用</strong></h2>
+<p>泡泡网记者接触因为Facebook实名制而被暂停帐户的王小姐。她是香港网络组织键盘战线成员，经常在Facebook发表网络自由观点，批评政府推出打击网络自由的政策，如版权条例、截取通讯及监察条例等。她忆述事发经过：很平常的一天，她如常登录Facebook，帐户忽然自动登出。再登入时就出现一个官方通告，“我们努力使每位Facebook用户使用他们真实身份”，要求她核实个人身份。通告并提到禁止以下帐户注册：假冒他人，用假名及帐户不代表真实个人。若她想重新登入帐号，便需要进行保安核实程序。<br><br>王小组注册帐户时，已经向Facebook呈交电话号码进行认证。帐户忽然被封，事前却没接获任何通知。却需要提交政府机关签发的身分证明文件。她怀疑和其政治言论有关，遭人恶意检举。<br><br>事后，她直斥“Facebook 不尊重香港的文化，不承认香港人的真名未必是证件名。根本是绑架我们生活时报上的回忆”。她又指，用户未必会对Facebook上的重要资料备份。一被检举，要不放弃所有帐户上的资料，要不呈上身份证明文件。她形容这为“要挟”，逼用户遵守它的规矩。她又坦言，若不是自己或朋友“中招”，并不会留意Facebook有此政策。</p>
+<h2><strong>检举者与被检举者的信息不平衡</strong></h2>
+<p>事实上，Facebook实名制和检举机制最大的矛盾是，<strong>被检举者必须使用政府签发的证件才能恢复帐户，但是对检举者却无此要求。</strong>被检举者即使身分经核实，仍然不知道谁检举他们，恶意检举者会否受Facebook处分，亦无人知晓。被检举人士中，若不想曝露个人真实身分，惟有注册新帐户、放弃帐户，或者改变名称。原先帐户内的所有信息，若没有备份，便会付之一炬。经年累积的粉丝群，亦要由零重新开始。结果，政策被用作打击政治对手的卑鄙手段，华人圈子中，被检举者不乏知名行动者和异议者。前<a href="https://d1rnppgpv4u79x.cloudfront.net/node/144" rel="nofollow">学运领袖王丹</a>、香港<a href="https://d1rnppgpv4u79x.cloudfront.net/node/112" rel="nofollow">网络漫画家Cuson LO</a>、网络作家卢斯达、台湾原住民运动行动者马太攻守联盟的成员 Nakao Eki Pacidal、<a href="https://d1rnppgpv4u79x.cloudfront.net/node/118" rel="nofollow">太阳花学运</a>领袖陈为廷等等。</p>
+<h2><strong>金钱驱动下的实名制</strong></h2>
+<p><strong>Facebook推行实名制，当然不是要像中国严厉监控网民思想，防止任何对政府不利的信息发布。说穿了，都是钱作怪。</strong>Facebook的广告销售额高达三十多亿美元，随着愈多人使用流动装置浏览Facebook，相信广告额升势持续。Facebook亚太区副总裁<a href="http://www.bnext.com.tw/topic/view/id/65/2" rel="nofollow">Dan Neary接受访问时提到</a>，<strong>“Facebook的用户都是实名制”，可以帮助广告客户针对使用者。</strong>今年初，Facebook又更新条款及政策，用户贴文或打卡时，Facebook会寻找用户所在位置，呈现相关度最高的资讯，如附近餐厅选择，或是该地区朋友的动态消息更新，令人更担心个人私隐问题。</p>
+<h2><strong>“废实名制”运动</strong></h2>
+<p>香港便有网民成立<a href="https://www.facebook.com/antiRNP/info?tab=page_info" rel="nofollow">“全面废除面书‘真实姓名’政策行动”Facebook社群</a>，争取立即恢复所有“真实姓名”政策下所被封锁的户口；立即无条件废除所有“真实姓名”的相关政策，和必须向有关受影响人士道歉。社群向公众收集受实名制影响的个案，又转载外国相关新闻，结连各地“苦主”，现已逾2000赞好。<br><br>Facebook的用户还能在这平台成立组织，要求废除不公的政策。可是，中国网民面对强大的政权，除了匿名上网，他们日后如何突破锁定个人身份证号码的信息一卡通呢？</p></body></html>
+</p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/430" target="paopao-mirror">中国政府给国民网上行为评分</a>
 </h2>
 <p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
@@ -228,7 +244,7 @@
   <div></div>
 </div>
 <div>
-  66% (137 票)
+  65% (137 票)
 </div>
 
 <div>不应该付费</div>
@@ -236,10 +252,10 @@
   <div></div>
 </div>
 <div>
-  34% (72 票)
+  35% (74 票)
 </div>
   <div>
-    投票统计： 209  </div>
+    投票统计： 211  </div>
   </div>
 </div></div>
 </div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="../../raw/master/x/e6f93b417311fdb73131561f5fc5efbd_0" width="634" height="361"></div></div></div></body></html>
@@ -731,22 +747,4 @@
 </p>
 <p>
 	<small> ============== 37天前</small>
-</p><h2>
-	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/397" target="paopao-mirror">中国NGO组织的电子“非冲突性社会行动”</a>
-</h2>
-<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><p><strong>2013年7月，一次民间的编程马拉松在中国南方城市广州举行。当地的非政府组织、技术人员组织和当地一所软件和互动设计学科实力很强的大学共同合作，来解决当地的问题，其中之一就是开发一款移动应用程序来收集旧衣物，然后便宜地卖给农民工。</strong><br><br>此次民间编程马拉松是由<a href="http://www.ngo20.org/" rel="nofollow">NGO2.0</a>及其合作伙伴组织，这是他们一系列活动中的一个。NGO2.0是旨在提升中国草根非政府组织的数字素养和发展技术协助社会服务部门的理念和实践的一个项目。最近，其创始人兼执行董事<a href="https://mitgsl.mit.edu/faculty-staff-detail/115" rel="nofollow">王瑾</a>在为《中华传播学刊》的特别期刊所撰的文章里介绍了他们的工作，并探讨了草根非政府组织如何将信息通信技术（ICT）用于中国的行动：“互联网‘下乡’：在中国农村使用信息和通信技术。”</p>
-<div><div><img height="320" width="480" typeof="foaf:Image" src="../../raw/master/x/11eb30bf19218823db6a671a4b1b471a_0" alt="" title=""><div><div><div><a href="https://www.flickr.com/photos/natematias/6243906407">王瑾 图/ J. Nathan Matias</a></div></div></div></div></div>
-<p>信息通信技术被认为是提高中国草根非政府组织权力的一种手段，而现在由于各种原因，包括政府的严格控制和资金的缺乏，这变得非常困难。王瑾建议，这些组织在媒体报道上根本没法与政府附属的非政府组织竞争。但是，社交媒体开创了新的可能性。NGO2.0的一个重要“通信能力建设计划”就是在中国欠发达的中西部省份为草根非政府组织提供数字和社交媒体素养培训。参与者将会学习如何使用社交媒体以低廉的成本来塑造机构的品牌形象，以吸引志愿者和其他资源，找到这些并与之合作，提高其运作透明度，开展参与式的思考，获得亲身体验，同时研究成功案例。<br><br>王瑾以“拯救民勤”这个农村环境非政府组织为例。民勤是一个正在发生急剧沙漠化的县，这个非政府组织正努力“拯救”这个县。这个组织的<a href="http://www.minqin.cn/" rel="nofollow">网站</a>访客很少，但是在社交媒体平台微博和微信的帮助下，他们成功地建立起一个关注生态的网上社区，能够公开招募志愿者前往民勤，在该县沙漠边界上植树。</p>
-<p>根据王瑾文章里的信息，截止到2014年7月，NGO2.0慈善地图上有的1492家草根非政府组织中，有895家没有微博账号。这条道路还很漫长。</p>
-<p><img height="720" width="960" typeof="foaf:Image" src="../../raw/master/x/11eb30bf19218823db6a671a4b1b471a_1" alt="" title=""></p>
-<p><em>(王瑾文章里的这个图表显示了中国非政府组织使用的不同社交媒体平台)</em><br><br>除了能力建设项目外，NGO2.0也开展了其他项目。他们编制了一个在线工具箱，建立了一个Web 2.0地图，超过1600家非政府组织在该地图上登记了其机构和项目资料。很多这些组织和项目在他们的行动中都在使用信息通信技术，尤其是社交媒体。<br><br>值得注意的是，王瑾将这些项目描述为"非冲突性的社会行动"(Nonresistant activism)。“除了一小部分维权的非营利组织，”她写道，“大多数中国非政府组织都是非正式的社会服务或福利救济机构，被迫在体制内开展工作。”<br><br>她进一步解释了社交媒体在行动中的作用：</p>
-<blockquote><p>虽然近年来我们目睹了更多的非政府组织把“政策宣传”作为其工作的一个平台，但是非政府组织在中国倾向于不用社交媒体来挑起革命或引燃公众的争议。</p>
-<p>那他们使用交互式媒体是为了什么呢？建立社会网络，调动资源，为农村和贫困地区的弱势群体提供救助。</p>
-</blockquote>
-<p>王瑾提醒读者，<strong>中国非政府组织的选择“不应该被当做是意识形态植根的，而是战略驱动的。”</strong>在一个独裁国家，民间团体是一个非常敏感的话题，很多活动家被关押，中国草根非政府组织在战略上强调“社会服务”，而不是“社会变革”，并相信他们仍然可以提高人民的认识，引发小的变革。<br><br>事实上，作为一个项目的NGO2.0也遵循着这一战略。NGO2.0最近从一个源于国际的学术项目转变成在深圳正式注册的一个非盈利机构。王瑾承认，她将NGO2.0定位为一个技术项目，而不是一个媒体计划，以最大限度减少政府的审查，同时她也强调了NGO2.0解决数字鸿沟的使命，“这才是政府也接受的一种话语。”<br> </p>
-<p><em>方可成，宾夕法尼亚大学博士生</em><br><br><em>本文经授权由泡泡翻译，英文原版原载于<a href="http://mediaactivism.org/2015/03/16/chinese-ngos-use-icts-for-nonresistant-activism/" rel="nofollow">媒体运动研究合作社</a></em></p></body></html>
-</p>
-<p>
-	<small> ============== 38天前</small>
 </p>
