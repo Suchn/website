@@ -714,7 +714,7 @@
 <p>CNNIC作为根CA被几乎所有操作系统和浏览器信任，谷歌已经将这些情况通知了所有的主流浏览器，谷歌所有版本的Chrome浏览器（包括 Windows、OS X、Linux版）、Firefox浏览器都会拦截这些证书，Firefox从37版开始引入OneCRL机制，建立证书黑名单，拦截被滥用及不安全的证书。<br><br>这件事情再次显示，互联网证书颁发机制公开透明的必要性。<br><br>谷歌英文博客原文：<a href="http://googleonlinesecurity.blogspot.com/2015/03/maintaining-digital-certificate-security.html" target="_blank" rel="nofollow">Maintaining digital certificate security</a><br><br>Mozilla英文博客原文：<a href="https://blog.mozilla.org/security/2015/03/23/revoking-trust-in-one-cnnic-intermediate-certificate/" target="_blank" rel="nofollow">Revoking Trust in one CNNIC Intermediate Certificate</a><br><br>参考资料：中国互联网络信息中心（China Internet Network Information Center，缩写为CNNIC），是经中华人民共和国国务院主管部门批准，于1997年6月3日成立的互联网管理和服务机构。中国互联网络信息中心成立 伊始，由中国科学院主管；2014年末，改由中央网络安全和信息化领导小组办公室、国家互联网信息办公室主管。</p></body></html>
 </p>
 <p>
-	<small> ============== 34天前</small>
+	<small> ============== 35天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/402" target="paopao-mirror">网络身份证在寻求商业模式</a>
 </h2>
