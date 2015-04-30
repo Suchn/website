@@ -601,7 +601,7 @@
 <p>我们也可从中得出几个结论：首先，尽管2009大选后有关 “推特革命”的讨论，貌似绝大多数伊朗人上网还是为了娱乐，而不是政治活动；其次，伊朗人对于网络安全的那种破罐子破摔的态度，将让VPN用户更容易受到政府监控。过去几年里，伊朗已有一些人因使用VPN而被捕。我们预计这种镇压还会继续，在国家互联网推出之后，镇压可能将更加严重。<br><br><em>英文原版发表于<a href="http://globalvoicesonline.org/2015/03/23/internet-in-iran-evaluating-rouhanis-first-two-years-as-president/" rel="nofollow">全球之声</a>，中文版按CC规定由泡泡编译</em></p></body></html>
 </p>
 <p>
-	<small> ============== 28天前</small>
+	<small> ============== 29天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/405" target="paopao-mirror">中国“旁观者攻击”显示网信办的介入</a>
 </h2>
