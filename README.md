@@ -523,7 +523,7 @@
 <p>但此款工具刚刚上线，随着知名度和用户的增强，其后能否经受得住GFW的考验还言之过早，但无论怎样，FreeeBrowser都必将是今年一款值得重点推荐和关注的翻墙工具。</p></body></html>
 </p>
 <p>
-	<small> ============== 23天前</small>
+	<small> ============== 24天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/409" target="paopao-mirror">占领大学！从荷兰到全球，网络时代掀起高校民主化风潮</a>
 </h2>
