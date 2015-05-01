@@ -261,7 +261,7 @@
 </div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="../../raw/master/x/e6f93b417311fdb73131561f5fc5efbd_0" width="634" height="361"></div></div></div></body></html>
 </p>
 <p>
-	<small> ============== 8天前</small>
+	<small> ============== 9天前</small>
 </p><h2>
 	<a href="https://d1rnppgpv4u79x.cloudfront.net/article/423" target="paopao-mirror">国安法二审稿：互联网是“依法洗脑”重要阵地</a>
 </h2>
