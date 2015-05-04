@@ -178,7 +178,7 @@
 <div><div>Image: </div><div><div><img typeof="foaf:Image" src="../../raw/master/x/e6f93b417311fdb73131561f5fc5efbd_0" width="634" height="361"></div></div></div></body></html>
 </p>
 <p>
-	<small> ============== 11天前</small>
+	<small> ============== 12天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/410" target="paopao-mirror">新翻墙七种武器之孔雀翎：FreeBrowser自由浏览器</a>
 </h2>
@@ -513,7 +513,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1rnppgpv4u79x.cloudfront.net/"
+				<td><a href="https://d1yneq1ip6nta7.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
