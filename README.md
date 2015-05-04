@@ -502,7 +502,7 @@
 <p>“很显然，总有人支持我们做的事情，也有人反对我们做的事情。但到目前为止，我们还未收到任何压力，让我们删除帐号。”</p></body></html>
 </p>
 <p>
-	<small> ============== 33天前</small>
+	<small> ============== 34天前</small>
 </p>
 <table>
 	<tr>
@@ -513,7 +513,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dfmsx49pky230.cloudfront.net/"
+				<td><a href="https://d1yneq1ip6nta7.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
