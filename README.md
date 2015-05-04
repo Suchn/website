@@ -1,6 +1,29 @@
 
 
-<img src="../../raw/master/x/paopao-banner_0.png" alt="泡泡"/><h2>
+<img src="../../raw/master/x/paopao-banner_0.png" alt="泡泡"/>
+<table>
+	<tr>
+				<td>泡泡免翻墙安卓应用</td>
+						
+				
+				<td><a href="https://raw.githubusercontent.com/greatfire/feeds/master/paopao.rss"
+			target="paopao-rss">RSS <img
+				src="../../raw/master/x/rss-icon.png" />
+		</a></td>
+				<td><a href="https://d1yneq1ip6nta7.cloudfront.net/"
+			target="paopao-mirror">免翻墙网页版</a></td>
+	</tr>
+		<tr>
+				<td><a href="../../raw/master/x/PaoPaoAndroid2.1.apk"><img
+				src="../../raw/master/x/paopao.qr.png" /></a></td>
+						
+				<td></td>
+				<td></td>
+	</tr>
+		
+	
+</table>
+<h2>
 	<a href="https://pao-pao.net/article/432" target="paopao-mirror">雨伞不息：中国打响数字行动之战</a>
 </h2>
 <p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
@@ -513,7 +536,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1rnppgpv4u79x.cloudfront.net/"
+				<td><a href="https://dfmsx49pky230.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
