@@ -392,7 +392,7 @@
 <p> </p></body></html>
 </p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/426" target="paopao-mirror">言论自由全球排名大汇总</a>
 </h2>
@@ -513,7 +513,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dfmsx49pky230.cloudfront.net/"
+				<td><a href="https://d1rnppgpv4u79x.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
