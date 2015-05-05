@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dfmsx49pky230.cloudfront.net/"
+				<td><a href="https://d1yneq1ip6nta7.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
