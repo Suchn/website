@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2py20xfs73r6x.cloudfront.net/"
+				<td><a href="https://dg7qho2whj5ce.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -593,7 +593,7 @@
 <p><span>      长期的封闭加洗脑让更多人开始麻木，开始渐渐忘却了该如何独立思考，扼杀自由的法条层出不穷，接连不断的震慑下自我审查已悄悄融入了自我保护潜意识，</span><a href="http://www.newyorker.com/magazine/2015/04/13/mute-button" rel="nofollow"><span>George Packer</span></a><span>在文章中写到： "当你学会了不说出不受欢迎的想法，你忘记了如何思考——如何自由地思考——思想就这样在孕育的时候就死去了”。一位翻墙者在采访结束前说的最后一句话是：“不想做围栏里的畜生就要想尽办法跨出围栏。翻墙是回归人性的一种快捷方式”。</span></p></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p>
 <table>
 	<tr>
@@ -604,7 +604,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dg7qho2whj5ce.cloudfront.net/"
+				<td><a href="https://dvtcghgybxcpa.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
