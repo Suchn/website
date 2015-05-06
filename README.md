@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dfmsx49pky230.cloudfront.net/"
+				<td><a href="https://dvtcghgybxcpa.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -529,7 +529,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1rnppgpv4u79x.cloudfront.net/"
+				<td><a href="https://dvtcghgybxcpa.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -546,7 +546,7 @@
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d1rnppgpv4u79x.cloudfront.net/">https://d1rnppgpv4u79x.cloudfront.net/</a></li>
-    <li><a href="https://d1yneq1ip6nta7.cloudfront.net/">https://d1yneq1ip6nta7.cloudfront.net/</a></li>
-    <li><a href="https://dfmsx49pky230.cloudfront.net/">https://dfmsx49pky230.cloudfront.net/</a></li>
+<li><a href="https://dvtcghgybxcpa.cloudfront.net/">https://dvtcghgybxcpa.cloudfront.net/</a></li>
+    <li><a href="https://dg7qho2whj5ce.cloudfront.net/">https://dg7qho2whj5ce.cloudfront.net/</a></li>
+    <li><a href="https://d2py20xfs73r6x.cloudfront.net/">https://d2py20xfs73r6x.cloudfront.net/</a></li>
     </ul>
