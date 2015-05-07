@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dg7qho2whj5ce.cloudfront.net/"
+				<td><a href="https://d2py20xfs73r6x.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -565,7 +565,7 @@
 <p>一个国家安全消息来源说，中国转向“大炮”是由于防火墙系统的升级没有取得预期的成功，因为“海外敌对组织同时升级了他们的服务帮助大陆人绕过屏蔽”。</p></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/417" target="paopao-mirror">防火墙内的大陆网民表情面面观（二）</a>
 </h2>
