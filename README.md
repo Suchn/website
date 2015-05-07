@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dvtcghgybxcpa.cloudfront.net/"
+				<td><a href="https://dg7qho2whj5ce.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -188,7 +188,7 @@
 <p> </p></body></html>
 </p>
 <p>
-	<small> ============== 5天前</small>
+	<small> ============== 6天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/433" target="paopao-mirror">超6成网友支持翻墙工具收费：平等、安全成顾虑</a>
 </h2>
@@ -604,7 +604,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2py20xfs73r6x.cloudfront.net/"
+				<td><a href="https://dvtcghgybxcpa.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
