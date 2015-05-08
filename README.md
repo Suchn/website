@@ -54,7 +54,7 @@
 <p><br><em>本文英文版原载于<a href="http://globalvoicesonline.org/2015/05/06/chinese-people-seem-to-love-uber-chinese-authorities-not-so-much/" rel="nofollow">全球之声</a>，中文版由泡泡翻译</em></p></body></html>
 </p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/438" target="paopao-mirror">微信成为官方舆论统战重地</a>
 </h2>
@@ -597,7 +597,7 @@
 <p>虽然这是全球第一次虚拟游行，但对于该组织来说，这也将是他们组织的最后一次虚拟游戏。“这次示威使用全息图，非常成功且有创意，但今后我们将回到街头。权利不能仅仅被维护，而应该被使用。唯一保护我们权利的方法，就是使用我们的权利。”</p></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p>
 <table>
 	<tr>
@@ -608,7 +608,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2py20xfs73r6x.cloudfront.net/"
+				<td><a href="https://dg7qho2whj5ce.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
