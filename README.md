@@ -571,7 +571,7 @@
 <p>认同廉价，建筑易朽，我希望自己不安于那个提供庇护的大商场。在无指向的漫游中，继续酝酿我的焦躁，激进和强迫症。<br><br><em>本文经授权转载自<a href="http://gravitysworm.com/post/115358769142" rel="nofollow">作者博客</a></em></p></body></html>
 </p>
 <p>
-	<small> ============== 19天前</small>
+	<small> ============== 20天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/420" target="paopao-mirror">网络时代的群众斗群众</a>
 </h2>
