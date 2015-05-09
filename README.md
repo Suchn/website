@@ -297,7 +297,7 @@
 <p><em>本文经原作者授权，中文版由泡泡编译首发，英文原版发表于<a href="https://thenib.com/umbrella-blackout-chinas-war-on-digital-activism-d6e6265ee45e" rel="nofollow">The Nib</a></em></p></body></html>
 </p>
 <p>
-	<small> ============== 8天前</small>
+	<small> ============== 9天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/431" target="paopao-mirror">金钱驱动的“实名制”也成打压工具</a>
 </h2>
