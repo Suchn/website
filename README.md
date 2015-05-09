@@ -610,7 +610,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
+				<td><a href="https://d118v0cys4z2hh.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
