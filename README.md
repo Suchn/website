@@ -431,7 +431,7 @@
 <p><img height="545" width="658" typeof="foaf:Image" src="../../raw/master/x/738f4e42d5ab865f5ff7774b114dfc01_6" alt="" title=""></p></body></html>
 </p>
 <p>
-	<small> ============== 16天前</small>
+	<small> ============== 17天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/425" target="paopao-mirror">投票：翻墙工具是否应该付费？</a>
 </h2>
@@ -610,7 +610,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
+				<td><a href="https://d118v0cys4z2hh.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
