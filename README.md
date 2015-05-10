@@ -14,7 +14,7 @@
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
-				<td><a href="../../raw/master/x/PaoPaoAndroid2.1.apk"><img
+				<td><a href="../../raw/master/x/PaoPaoAndroid.apk"><img
 				src="../../raw/master/x/paopao.qr.png" /></a></td>
 						
 				<td></td>
@@ -610,11 +610,11 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
+				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
-				<td><a href="../../raw/master/x/PaoPaoAndroid2.1.apk"><img
+				<td><a href="../../raw/master/x/PaoPaoAndroid.apk"><img
 				src="../../raw/master/x/paopao.qr.png" /></a></td>
 						
 				<td></td>
