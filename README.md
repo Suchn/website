@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d118v0cys4z2hh.cloudfront.net/"
+				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -627,7 +627,7 @@
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d118v0cys4z2hh.cloudfront.net/">https://d118v0cys4z2hh.cloudfront.net/</a></li>
+<li><a href="https://d1my0bpuxn5af8.cloudfront.net/">https://d1my0bpuxn5af8.cloudfront.net/</a></li>
+    <li><a href="https://d118v0cys4z2hh.cloudfront.net/">https://d118v0cys4z2hh.cloudfront.net/</a></li>
     <li><a href="https://dakhi0mbzmepp.cloudfront.net/">https://dakhi0mbzmepp.cloudfront.net/</a></li>
-    <li><a href="https://d1my0bpuxn5af8.cloudfront.net/">https://d1my0bpuxn5af8.cloudfront.net/</a></li>
     </ul>
