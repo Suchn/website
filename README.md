@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
+				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -104,7 +104,7 @@
 <p>统战式拉拢、地毯式洗脑，拒绝被吸纳者便会被“消灭”（注销）。当局对网络舆论的管制已强化到峰值。利用微信乔装“好友”渗透群聊的方式也并非太可怕和不可抵抗，只要认识到新媒体网络舆论统战的存在，强化自身判断力、谨慎添加联系人便基本可保不会遭遇潜移默化的洗脑。</p></body></html>
 </p>
 <p>
-	<small> ============== 4天前</small>
+	<small> ============== 5天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/437" target="paopao-mirror">北京三日：见证全球最著名的三位异见人士</a>
 </h2>
@@ -335,7 +335,7 @@
 <p>“这是目前公开的规模最大的大数据应用。”硅谷企业家、《信誉经济学》(The Reputation Economy)作家Michael Fertik说。“这绝对像是你噩梦中的奥威尔监控社会。另一方面，中共一直以来给中国人评分，这个大数据版的升级，也很可能是无法避免的。任何指令性国家都希望能这么使用数据。”<br><br><em>本文由泡泡翻译，原文英文版发表于<a href="http://www.volkskrant.nl/buitenland/china-rates-its-own-citizens-including-online-behaviour~a3979668/" rel="nofollow">荷兰《人民报》（de Volkskrant）</a>。</em></p></body></html>
 </p>
 <p>
-	<small> ============== 12天前</small>
+	<small> ============== 13天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/429" target="paopao-mirror">运动式净网推专项行动  火力对准港台媒体</a>
 </h2>
@@ -610,7 +610,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
+				<td><a href="https://d118v0cys4z2hh.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
