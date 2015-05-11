@@ -270,7 +270,7 @@
 <p> </p></body></html>
 </p>
 <p>
-	<small> ============== 9天前</small>
+	<small> ============== 10天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/433" target="paopao-mirror">超6成网友支持翻墙工具收费：平等、安全成顾虑</a>
 </h2>
@@ -610,7 +610,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
+				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
