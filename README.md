@@ -422,7 +422,7 @@
 <p>我从来谨惕“民众素质”论。但是，在中共的威胁与洗脑之下，很多中国人恐惧、犬儒、糊涂乃至是非颠倒，也是一个不争的事实。对于这些人来说，高瑜的“罪”太超前，他们跟不上；高瑜的“罪”太真实，他们不想看；高瑜的“罪”太绝望，他们受不了；高瑜的“罪”太高贵，他们犯不起。高瑜为了每一个人的政治权利而犯“罪”，大多数人却绕开她走。</p></body></html>
 </p>
 <p>
-	<small> ============== 17天前</small>
+	<small> ============== 18天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/426" target="paopao-mirror">言论自由全球排名大汇总</a>
 </h2>
@@ -582,7 +582,7 @@
 <p>在刚刚落幕的<a href="https://www.gccs2015.com/" rel="nofollow">国际网络空间大会</a>上，与会的各国代表在交谈国际网络安全对策时，并无将网络监控放置于议事日程上。</p></body></html>
 </p>
 <p>
-	<small> ============== 21天前</small>
+	<small> ============== 22天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/421" target="paopao-mirror">网络漫游的消失</a>
 </h2>
@@ -603,7 +603,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
+				<td><a href="https://d118v0cys4z2hh.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
