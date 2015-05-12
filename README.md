@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1my0bpuxn5af8.cloudfront.net/"
+				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -592,7 +592,7 @@
 <p>认同廉价，建筑易朽，我希望自己不安于那个提供庇护的大商场。在无指向的漫游中，继续酝酿我的焦躁，激进和强迫症。<br><br><em>本文经授权转载自<a href="http://gravitysworm.com/post/115358769142" rel="nofollow">作者博客</a></em></p></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p>
 <table>
 	<tr>
@@ -603,7 +603,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d118v0cys4z2hh.cloudfront.net/"
+				<td><a href="https://dakhi0mbzmepp.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
