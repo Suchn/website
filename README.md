@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2iw92pna3oou8.cloudfront.net/"
+				<td><a href="https://d16t80fg9ofk33.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -645,7 +645,7 @@
 <p>两会后，<a href="https://pao-pao.net/node/414" rel="nofollow">“互联网+”</a>大跃进正在启动中，初见成型的有涉及医疗、影视、金融、电商（服务）、教育等领域。互联网教育可以让用户自由选择，在广泛学习知识和观念的过程中逐步培养起独立思考、独立判断的意识，而线下教育很可能（或者说更容易）形成灌输式洗脑。洗脑的宗旨是不允许选择和独立思考，只能接受灌输者给予的某一种思想和价值观。于是，当局的洗脑教育在互联网模式下受到一定冲击。新东方教育科技(集团)有限公司董事长兼首席执行官俞敏洪在近日召开的“<a href="http://finance.sina.com.cn/hy/20150421/100722007365.shtml" rel="nofollow">2015中国绿公司年会</a>”上表示<strong>“教育是‘互联网+’的最大受害者”</strong>，他认为：真正的教育是从思想上改变一批人……而互联网的出现，使得教育变成了表面浮华的信息获取过程，“这是几乎不能被逆转的”。俞敏洪建议，在互联网无所不在的年代，必须倡导“深刻教育”。俞敏洪在去年11月的北京互联网教育国际高峰论坛上还说“<a href="http://edu.people.com.cn/n/2014/1102/c367001-25956935.html" rel="nofollow">教育应该拥抱移动互联网</a>”，推测认为，此次“改口”或许有舆论性质。<br><br>洗脑灌输令受众长期处于单一信息环境中，逐渐失去反思能力。实体教育还更便于形成群体效应，制造可视舆论氛围，利用了人们的归属需求，一旦融入群体就基本失去了抗拒能力。实体教育还经常借助仪式将抽象意识形态具象化，以期更为便捷地“深入人心”。据报道，今年二月，中国教育部发布《关于进一步加强和改进新形势下高校宣传思想工作的意见》后，各地教育部对学生进行的意识形态控制升温。<a href="http://blog.sina.cn/dpool/blog/s/blog_91eb11300102vdfi.html?cre=blogpagew&amp;mod=f&amp;loc=1&amp;r=u&amp;rfunc=-1" rel="nofollow">据中青网报道</a>，河南一所学校规定学生必须向孔子像下跪磕头，在校生每天清晨5点起床诵读《道德经》。同期中新网的一篇报道称，就连“幼儿园的园长也要坚持社会主义办学方向”。相比下，上述基于洗脑的便捷模式在互联网教育中都较难形成。但如果在鉴别能力普遍不高的情况下，一些隐形洗脑依旧有一定市场。</p></body></html>
 </p>
 <p>
-	<small> ============== 21天前</small>
+	<small> ============== 22天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/422" target="paopao-mirror">“冻疮行动”：新西兰被控监听中国外交情报</a>
 </h2>
@@ -683,7 +683,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2iw92pna3oou8.cloudfront.net/"
+				<td><a href="https://d35u7jzwp1uddg.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
