@@ -539,7 +539,7 @@
 <div><div>Image: </div><div><div><img typeof="foaf:Image" src="../../raw/master/x/e6f93b417311fdb73131561f5fc5efbd_0" width="634" height="361"></div></div></div></body></html>
 </p>
 <p>
-	<small> ============== 20天前</small>
+	<small> ============== 21天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/423" target="paopao-mirror">国安法二审稿：互联网是“依法洗脑”重要阵地</a>
 </h2>
