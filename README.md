@@ -185,7 +185,7 @@
 <p><br><em>本文英文版原载于<a href="http://globalvoicesonline.org/2015/05/06/chinese-people-seem-to-love-uber-chinese-authorities-not-so-much/" rel="nofollow">全球之声</a>，中文版由泡泡翻译</em></p></body></html>
 </p>
 <p>
-	<small> ============== 5天前</small>
+	<small> ============== 6天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/438" target="paopao-mirror">微信成为官方舆论统战重地</a>
 </h2>
