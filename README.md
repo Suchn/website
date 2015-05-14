@@ -682,7 +682,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d35u7jzwp1uddg.cloudfront.net/"
+				<td><a href="https://d16t80fg9ofk33.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
