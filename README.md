@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d16t80fg9ofk33.cloudfront.net/"
+				<td><a href="https://d2iw92pna3oou8.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -704,7 +704,7 @@
 <div><div>Image: </div><div><div><img typeof="foaf:Image" src="../../raw/master/x/e6f93b417311fdb73131561f5fc5efbd_0" width="634" height="361"></div></div></div></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p>
 <table>
 	<tr>
@@ -715,7 +715,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d16t80fg9ofk33.cloudfront.net/"
+				<td><a href="https://d2iw92pna3oou8.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
