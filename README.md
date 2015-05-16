@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
+				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -648,7 +648,7 @@
 <p><img height="545" width="658" typeof="foaf:Image" src="../../raw/master/x/738f4e42d5ab865f5ff7774b114dfc01_6" alt="" title=""></p></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p>
 <table>
 	<tr>
