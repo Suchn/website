@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -530,7 +530,7 @@
 <p>香港便有网民成立<a href="https://www.facebook.com/antiRNP/info?tab=page_info" rel="nofollow">“全面废除面书‘真实姓名’政策行动”Facebook社群</a>，争取立即恢复所有“真实姓名”政策下所被封锁的户口；立即无条件废除所有“真实姓名”的相关政策，和必须向有关受影响人士道歉。社群向公众收集受实名制影响的个案，又转载外国相关新闻，结连各地“苦主”，现已逾2000赞好。<br><br>Facebook的用户还能在这平台成立组织，要求废除不公的政策。可是，中国网民面对强大的政权，除了匿名上网，他们日后如何突破锁定个人身份证号码的信息一卡通呢？</p></body></html>
 </p>
 <p>
-	<small> ============== 16天前</small>
+	<small> ============== 17天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/430" target="paopao-mirror">中国政府给国民网上行为评分</a>
 </h2>
@@ -659,7 +659,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
+				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
