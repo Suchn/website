@@ -659,7 +659,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
+				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
