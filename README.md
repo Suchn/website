@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -597,7 +597,7 @@
 <p>       娱众路线比质量深度更能“体现价值”，掺水数据严重稀释实质认同，市场全局价值观压制了精品的生成，严重拉低了整体内容品质下线，更有审查管制大背景，“红线”层层包裹，如此环境下，那些宣称“做内容”的信誓旦旦不过如同尴尬的笑话。</p></body></html>
 </p>
 <p>
-	<small> ============== 23天前</small>
+	<small> ============== 24天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/427" target="paopao-mirror">假如高瑜有罪，人人都该受罚</a>
 </h2>
@@ -659,7 +659,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
