@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
+				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -128,7 +128,7 @@
 <p>近年来，<a href="https://pao-pao.net/node/354" rel="nofollow">外网上的五毛大军已明显增多</a>。他们的工作直观部分是做外宣，入侵公众舆论空间为大陆当局舆论造势，并大量制造垃圾信息，稀释和抹黑异议。5月7日，美国之音中文网在时事大家谈栏目中为世界新闻自由日开启的话题是“中国离新闻自由还有多远？”，在<a href="https://www.youtube.com/watch?v=wRTW7Tx_1Eo" rel="nofollow">YouTuBe的视频页面</a>上可见大批五毛出现在评论栏部分。一般此类情况被认为该话题（消息）敏感度较高。也或可能和参与该话题的嘉宾有关，如做为异议人士的<a href="https://pao-pao.net/tags/18" rel="nofollow">独立媒体人北风</a>，他的账号在境外社交网站上一直以来都是五毛团队实施抹黑式攻击的重点；另一部分不可直观的但肯定存在的“工作”就是监视和举报，早前已有异议人士在遭传唤过程中被问及facebook上的言论和好友关系。再次建议身居大陆的异议人士在境外社交网站上设置ID名、注册邮箱、简介和头像等信息时尽量区别于在国内网站 上的本人账号，避免因此类外观而导致被追踪骚扰。</p></body></html>
 </p>
 <p>
-	<small> ============== 5天前</small>
+	<small> ============== 6天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/442" target="paopao-mirror">卧底“真理部”：我在俄罗斯当水军的日子</a>
 </h2>
@@ -659,7 +659,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
+				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
