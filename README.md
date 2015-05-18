@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -425,7 +425,7 @@
 <p>在机场，我安然无恙地过了安检。金属探测器的警报确实叫了，不过那也是因为胸罩的钢丝圈而已，所以他们立刻就放行了。之</p></body></html>
 </p>
 <p>
-	<small> ============== 11天前</small>
+	<small> ============== 12天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/436" target="paopao-mirror">网络连署运动：真民主还是瞎掰的正义感？</a>
 </h2>
@@ -659,7 +659,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
+				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
