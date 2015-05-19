@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -529,7 +529,7 @@
 <p>也有网友提出，与其翻墙，不如集中资源把墙推倒。“<em>是应该想办法破坏墙了，穷于翻不是好办法啊！花钱或者不花钱都要破坏墙，IT专家们团结起来干！</em>”<a href="https://pao-pao.net/comment/31197#comment-31197" rel="nofollow">一位网友说</a>。<br><br>讨论全文请<a href="https://pao-pao.net/article/425" rel="nofollow">点击</a>查看。</p></body></html>
 </p>
 <p>
-	<small> ============== 18天前</small>
+	<small> ============== 19天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/432" target="paopao-mirror">雨伞不息：中国打响数字行动之战</a>
 </h2>
@@ -655,7 +655,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
