@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1h44xkml459pv.cloudfront.net/"
+				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -259,7 +259,7 @@
 <p>美国公民自由联盟希望法官能叫停NSA的监控计划。但《爱国者法案》第215条将在6月1日终止，美国国会多数派领袖Mitch McConnell 提议要重新授权 《爱国者法案》。但联邦上诉法庭此次的裁决显然对该法案的适用性提出了质疑。法官指出：“在监控讨论的关键时刻，该裁决是对当今的电话监控项目的一次打击。”<br><br>据<a href="http://www.latimes.com/nation/nationnow/la-na-nsa-data-collecting-20150507-story.html#page=1" rel="nofollow">《洛杉矶时报》报道</a>，美国国家安全委员会发言人Ned Price在一份声明中指出，奥巴马“已表明将终止现行的监控项目，并将创造一个替代的项目，既能保留当前项目的精髓，又无需存储大量数据。”</p></body></html>
 </p>
 <p>
-	<small> ============== 10天前</small>
+	<small> ============== 11天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/439" target="paopao-mirror">中国政府不准“优步”为民服务</a>
 </h2>
@@ -659,7 +659,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d1c0f34jtncykr.cloudfront.net/"
+				<td><a href="https://d3bg9j4er4mqte.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
