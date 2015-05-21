@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -321,7 +321,7 @@
 <p><em>英文原文载于<a href="http://www.rferl.org/content/how-to-guide-russian-trolling-trolls/26919999.html" rel="nofollow">欧洲自由电台</a>，中文版由泡泡编译（基于米格尔街的翻译）</em></p></body></html>
 </p>
 <p>
-	<small> ============== 9天前</small>
+	<small> ============== 10天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/441" target="paopao-mirror">浦志强入狱满周年 沧海横流心结如故</a>
 </h2>
