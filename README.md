@@ -99,7 +99,7 @@
 <p>所谓的境外NGO颜色革命，只是威权心虚的表现。新一波的赋权运动的载体，大概不再是NGO，而是网络社群，以科技来赋权，只要矛盾一天存在，人民有发声的愿望，草根自主，不会因为稳维式的管理而灭。</p></body></html>
 </p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/447" target="paopao-mirror">二十六年算总账  浦志强被正式公诉</a>
 </h2>
@@ -666,7 +666,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
