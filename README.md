@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -116,7 +116,7 @@
 <p><em>本文经授权转载自<a href="https://plus.google.com/+GhostAssassin/posts/AH7bNuJKiCr" rel="nofollow">Phantom Knight</a></em><em><a href="https://plus.google.com/+GhostAssassin/posts/AH7bNuJKiCr" rel="nofollow">的博客</a>，刊发时经过编辑。</em></p></body></html>
 </p>
 <p>
-	<small> ============== 4天前</small>
+	<small> ============== 5天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/449" target="paopao-mirror">民警暴力执法：徐纯合真该被一枪毙命？（读者来稿）</a>
 </h2>
@@ -670,7 +670,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
