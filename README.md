@@ -178,7 +178,7 @@
 <p><span>      做为“死磕派律师”，在当局眼中已不同于普通的维权律师，维权只是结论上的异议，对过程还是服从的，而“死磕”是全面性的异议，在当局看来是正面对抗的性质，“煽动颠覆”是针对“性质”的定罪。分析认为，现今当局的态度是全面覆盖异议者了。维权在极权收紧的情况下，既没有收益也不可能减轻风险，一定会分化，或者偃旗息鼓或者走向抗争。</span></p></body></html>
 </p>
 <p>
-	<small> ============== 6天前</small>
+	<small> ============== 7天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/445" target="paopao-mirror">高智识非圈子化群组为什么生产不出营养</a>
 </h2>
@@ -670,7 +670,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
