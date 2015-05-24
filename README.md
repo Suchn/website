@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -622,7 +622,7 @@
 <p>看来举报功能是为收集汇拢敏感“现象”的存在。日前，网信办有宣布：“今年将展开五大专项行动，全面清理和打击各类违法违规有害讯息，其中包括<a href="https://pao-pao.net/node/429" rel="nofollow">港台反动有害信息</a>，封堵政治性有害出版物”。就此推测，港台媒体资讯忽然间敏感度提升或与举报有关，去年香港的雨伞革命、台湾的九合一选举在墙内同期舆论中都占据可观的比重，虽然有实时的关键字过滤删帖，但因举报而导致删帖封号的ID肯定不少，或正因此形成了“现象”，进而引发港台政治资讯进入此次“专项行动”重点之一。</p></body></html>
 </p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/434" target="paopao-mirror">尼泊尔地震与“中国大炮”（转载）</a>
 </h2>
@@ -670,7 +670,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
