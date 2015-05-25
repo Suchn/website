@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -477,7 +477,7 @@
 <p>统战式拉拢、地毯式洗脑，拒绝被吸纳者便会被“消灭”（注销）。当局对网络舆论的管制已强化到峰值。利用微信乔装“好友”渗透群聊的方式也并非太可怕和不可抵抗，只要认识到新媒体网络舆论统战的存在，强化自身判断力、谨慎添加联系人便基本可保不会遭遇潜移默化的洗脑。</p></body></html>
 </p>
 <p>
-	<small> ============== 18天前</small>
+	<small> ============== 19天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/437" target="paopao-mirror">北京三日：见证全球最著名的三位异见人士</a>
 </h2>
