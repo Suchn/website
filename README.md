@@ -41,7 +41,7 @@
 <p></p><div><img height="480" width="361" typeof="foaf:Image" src="../../raw/master/x/a20dd507e23e88be7dd41e22c002613b_0" alt="" title=""><div><div><div><a href="http://www.wsj.com/articles/how-googles-top-minds-decide-what-to-forget-1431462018">直到今天，Google已经收到超过25万个移除要求，其中包含超过92万条超链接。图：华尔街日报</a></div></div></div></div><br><br>如果移除要求的申请者被拒绝，他们可以向本国的资讯保护机构上诉。如果这些资讯保护机构判定移除要求有理，可以直接联络Google发出移除令。<br><br>Google的全球私隐顾问Peter Fleischer，最近在一个在德国柏林举行的资料隐私研讨会上表示：公司在尽力“扮演一个我们从来没有要求过，更不想扮演的角色”。同时，他也透露了一点<strong>Google在处理移除要求时的决定机制——大部份的移除要求是从网上提交，然后一个包括律师、律师助理和工程师的庞大团队，会先处理那些较简单直接的个案。一位Google发言人表示，共有几十位的同事处理这些移除要求，他们主要是驻在爱尔兰都柏林Google总部</strong>。<br><br>Fleischer表示大部份的移除要求也属简单个案，例如一名女子在渡假时无上装日光浴的照片在未得她本人同意下在网上发布，又或者是某人多年前的高买报导。正常的处理方法是将超链接从搜寻结果中移除，让当事人可以忘记过去继续生活。<br><br>比较难处理的个桉，会由一个Google的高级小组处理。小组的组员适常在星期三开会，会讨论每一个个案然后投票。Fleischer告诉研讨会的听众：“通常大部份人都会抱同一意见，但也有些个案，大家抱强烈的不同意见。”<br><br>Google现在移除链接，只会影响欧盟内的Google网站，例如google.fr和google.co.uk，但不包括google.com，即是如果网民在欧盟境内使用google.com，仍是会在搜寻结果中找到被移除的链接。欧盟内的有关监管机构的意见是，Google现在的这个做法，对保障个人私隐是远远不够。<br><br>另外，一个欧盟私隐法例议案，可能会将现在在互联网搜索引擎上的被遗忘权，伸延到数据库及其他网站上。支持及反对两方，正在如何平衡私隐和知情权上角力，而各个有关政府，也正在考虑是否应该让私人企业去做这些平衡私隐与公众知情权的决定。<br><br><em>本文经授权转载自<a href="http://www.inmediahk.net/node/1034452" rel="nofollow">香港独立媒体</a></em></body></html>
 </p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/452" target="paopao-mirror">网络大咖成新“统战对象”</a>
 </h2>
@@ -670,7 +670,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
