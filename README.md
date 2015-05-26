@@ -24,6 +24,19 @@
 	
 </table>
 <h2>
+	<a href="https://pao-pao.net/article/454" target="paopao-mirror">统战新媒体：网信办与中宣部的暗战</a>
+</h2>
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><p><strong>（泡泡特约）</strong> 在大陆的社交媒体上，尤其是微信朋友圈里，有关中央统战工作会议的精神纪要受到热烈关注。这份纪要提出，要展开一项<a href="https://pao-pao.net/node/452" rel="nofollow">“统战新媒体”</a>的工作。中央统战部的机关刊物比较详尽地陈述了此事的前因后果，很像是在“表功”，尽管很快就被删除处理。</p>
+<p>统战新媒体之所以引起舆论哗然，在于以下几点：一是统战的党国特征显著，统战就是为党所用，这等于限定了新媒体的功能定位；二是一些以技术创业展现成功学的新媒体人士，似乎与统战工作暗通款曲；三是新媒体的未来前途将由此抹上阴影；四是被寄予社会突围厚望的新媒体，原来也成了投诚的工具，难怪一片愤懑之声。<br><br>有份参与统战培训的新媒体人士，尽管委婉表达了大陆信息变革的趋势，但在讲话的末尾，无一不是落笔在“精忠报国”上。无论这些人如何想要讨好上下两头，在社交网络的议论中，统战新媒体的对象成了“统战新贵”的代名词，变成一种普遍意义上的贬低。</p>
+<h2><strong>统战新媒体闪着网信办的身影</strong></h2>
+<p>应该说，那些参加统战新媒体培训的意见领袖，在人选的甄别上，一是集中在风头正健的新媒体机构，比如今日头条、甚至是某个手机内容商，显示出操盘者对新媒体的势力范围相当清楚。二是<strong>通常意义上的“五毛”并无入选，显示出统战新媒体有意区别于常规的中宣部模式</strong>。有论者据此认为，这体现了<strong>统战新媒体背后闪现着<a href="http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84" rel="nofollow">网信办</a>的身影</strong>。<br><br>社交媒体对统战新媒体的忧虑与愤怒，让他们将怒火发泄在参与者身上，比如受邀参加培训的邓飞，一直被新媒介视作转型做公益的榜样，他的参与受到同行的讥讽与嘲笑。但是至今为止，自由主义的知识分子对统战新媒体依旧缺乏分析，而是将它纳入到舆论压制的解释框架中，给予猛烈的抨击与不信任。<br><br>对于这种反应，估计统战新媒体的操盘手并不会觉得恐慌，而将这种反应认为是理所当然。这也从一个侧面证实，<strong>统战新媒体工作切中了大陆信息分配的主渠道与关键部位。这也从相反的角度证明，网信办支撑的这一课题研究，很可能超出了中宣部的势力范围</strong>。<br><br>尽管有评论认为，统战新媒体是网信办对赌中宣部的战略措施，但这种分析可能忽略了一点：统战本身即使可以造成信息管制上出现新的寡头，从而对冲中宣部的管制体制，但它依然是以信息控制为目标的，依旧是以牺牲信息自由流动的代价，来实现网络管理符合党国需求。因此，在这一点上，不能高估管制权博弈所带来的正面好处，更不能低估网络的控制权实现垄断后必将带来的恶果。</p>
+<h2><strong>媒体分权机制已成现实</strong></h2>
+<p>到目前为止，“统战新媒体”工作还仅仅停留在照见与轮训意见领袖这个层面，它如何继续利用统战这块牌子，继续在网络上巩固网信办的专权，从而扩大其势力范围，进而将一个严密的统战网络覆盖到新媒体上，依旧不甚明朗。随着这一块的推进，可能会很快浮上水面。<br><br>从习近平在提高统战座谈会的规格，将其从国家层面拔高到党中央的层级，并且将“统战新媒体”的内容和方法做了阐释，都可以看出<strong>在媒体层面建立分权机制，像中石化、中石油那样建立相互牵制的管理单位，已经是现实</strong>，而不再是一种想象中计划。这从另一个方面验证了<strong>网信办的效率相当快，在与中宣部争夺舆论控制权上已经占据了上风。</strong><br><br>总之，借助统战这个国策，将新媒体管控变成一块自留地，拒绝与老旧的宣传势力分享，是下了一盘相当聪明的棋。但是这个统战工作，势必要影响到新媒体的立场与取向，笼罩在新媒体身上的技术光环即刻褪变为冰冷的党国工具，而那些具体参加的人选，则要面临更激烈的口诛笔伐。他们相当于被选中的“叛徒”，其事业前途如何，难以预料。</p></body></html>
+</p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://pao-pao.net/article/453" target="paopao-mirror">欧洲80学者联署 促Google增"移除链接"透明度</a>
 </h2>
 <p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
@@ -641,22 +654,6 @@
 </div>
 </div>
 <p> </p></body></html>
-</p>
-<p>
-	<small> ============== 25天前</small>
-</p><h2>
-	<a href="https://pao-pao.net/article/433" target="paopao-mirror">超6成网友支持翻墙工具收费：平等、安全成顾虑</a>
-</h2>
-<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><p>一周前，泡泡君在网站上发起了“翻墙工具是否应该付费”的<a href="https://pao-pao.net/article/425" rel="nofollow">投票</a>。截至5月1日，共有211位网友参与了投票，其中137位网友认为“应该付费”，占投票总数的65%；74位网友认为“不应该付费”，占投票总数的35%。</p>
-<p><img height="488" width="746" typeof="foaf:Image" src="../../raw/master/x/670c00c60fe78af58f1699d7cb8cb584_0" alt="" title=""></p>
-<p>支持付费的网友表示，“<a href="https://pao-pao.net/comment/31130#comment-31130" rel="nofollow">付费翻墙是支持搭建翻墙软件的技术人士最好的方法</a>”，同时，许多付费的翻墙软件相比更加可靠安全，“<a href="https://pao-pao.net/comment/31142#comment-31142" rel="nofollow"><span><span>能兼顾稳定高速安全的还是付费的翻墙服务</span></span></a>”，“<a href="https://pao-pao.net/comment/31158#comment-31158" rel="nofollow">有经济支持的技术才得以长期发展下去，而且服务质量也会大大提升</a>”。甚至有网友建议，让“<a href="https://pao-pao.net/comment/31157#comment-31157" rel="nofollow">和中国政府有生意来往的国家拿出部分钱来支持翻墙软件</a>。”<br><br>而支持免费的网友则表示，<em>“付费翻墙阻碍了自由浏览群体的发展，对翻墙者是一个制约。”</em><a href="https://pao-pao.net/comment/31177#comment-31177" rel="nofollow">一位网友评论说</a>，<em>“这个民族的人性在那里摆着呢，他自己拿出20块钱，多数会选择去吃肉串，而不会付一个月的翻墙费用。”</em> 持类似观点的网友也不反对翻墙工具付费，他们提出，开发者可免费提供翻墙工具，同时呼吁使用者自愿捐款。</p>
-<h2><strong>不能把穷人挡在墙内</strong></h2>
-<p>在网友的讨论中，许多支持应同时有“付费”与“免费”的翻墙软件。这里主要涉及到“电子鸿沟”问题，正如<a href="https://pao-pao.net/comment/31168#comment-31168" rel="nofollow">一位匿名网友的评论</a>：“<em>不能把我们这些看文字的穷人，挡在墙内</em>”。<a href="https://pao-pao.net/comment/31160#comment-31160" rel="nofollow">也有人提到学生这一经济弱势群体</a>，“<em>说实话，我不认为有多少人会在乎几十块，唯一有点困难的可能是学生，但是其实学生是最需要知道墙外风景的呢。</em>”有不少网友建议对翻墙软件的收费进行分级，如“<a href="https://pao-pao.net/comment/31175#comment-31175" rel="nofollow">可以设定几个档次的付费标准，不同的等级，可使用不同的带宽，也有免费版本，适合不同经济能力的人群</a>。”</p>
-<h2><strong>翻墙支付安全担忧</strong></h2>
-<p>在网友的回馈中，不少人提出了支付安全问题，“<strong>如何确保翻墙而不泄露隐私</strong>”： <a href="https://pao-pao.net/comment/31143#comment-31143" rel="nofollow">一位网友评论说</a>：“<em>其实适当收费是很好的，可以使翻墙更加持续的进行，但是很多情况下，缺少付费路径，还有考虑付费中身份暴露问题，希望能够提供多种不同的付费路径，灵活点，保护好付费用户的隐私</em>。”<br><br>安全也是针对翻墙工具开发者而言的，此前就有不少翻墙工具的开发者受到政府的压力。正如<a href="https://pao-pao.net/comment/31170#comment-31170" rel="nofollow">一位网友指出</a>：“<em>据我所知很多墙内的英雄之所以没有被找上门，是因为没有“接受境外敌对势力资助”的证据。一旦有志愿者开放了付费通道，难免落下口实。</em>”</p>
-<h2><strong>集中资源把墙推倒</strong></h2>
-<p>也有网友提出，与其翻墙，不如集中资源把墙推倒。“<em>是应该想办法破坏墙了，穷于翻不是好办法啊！花钱或者不花钱都要破坏墙，IT专家们团结起来干！</em>”<a href="https://pao-pao.net/comment/31197#comment-31197" rel="nofollow">一位网友说</a>。<br><br>讨论全文请<a href="https://pao-pao.net/article/425" rel="nofollow">点击</a>查看。</p></body></html>
 </p>
 <p>
 	<small> ============== 25天前</small>
