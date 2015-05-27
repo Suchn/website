@@ -656,7 +656,7 @@
 <p> </p></body></html>
 </p>
 <p>
-	<small> ============== 25天前</small>
+	<small> ============== 26天前</small>
 </p>
 <table>
 	<tr>
@@ -667,7 +667,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
