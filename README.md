@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -68,7 +68,7 @@
 <p>到目前为止，“统战新媒体”工作还仅仅停留在照见与轮训意见领袖这个层面，它如何继续利用统战这块牌子，继续在网络上巩固网信办的专权，从而扩大其势力范围，进而将一个严密的统战网络覆盖到新媒体上，依旧不甚明朗。随着这一块的推进，可能会很快浮上水面。<br><br>从习近平在提高统战座谈会的规格，将其从国家层面拔高到党中央的层级，并且将“统战新媒体”的内容和方法做了阐释，都可以看出<strong>在媒体层面建立分权机制，像中石化、中石油那样建立相互牵制的管理单位，已经是现实</strong>，而不再是一种想象中计划。这从另一个方面验证了<strong>网信办的效率相当快，在与中宣部争夺舆论控制权上已经占据了上风。</strong><br><br>总之，借助统战这个国策，将新媒体管控变成一块自留地，拒绝与老旧的宣传势力分享，是下了一盘相当聪明的棋。但是这个统战工作，势必要影响到新媒体的立场与取向，笼罩在新媒体身上的技术光环即刻褪变为冰冷的党国工具，而那些具体参加的人选，则要面临更激烈的口诛笔伐。他们相当于被选中的“叛徒”，其事业前途如何，难以预料。</p></body></html>
 </p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/453" target="paopao-mirror">欧洲80学者联署 促Google增"移除链接"透明度</a>
 </h2>
@@ -162,7 +162,7 @@
 <p><em>本文经授权转载自<a href="https://plus.google.com/+GhostAssassin/posts/AH7bNuJKiCr" rel="nofollow">Phantom Knight</a></em><em><a href="https://plus.google.com/+GhostAssassin/posts/AH7bNuJKiCr" rel="nofollow">的博客</a>，刊发时经过编辑。</em></p></body></html>
 </p>
 <p>
-	<small> ============== 7天前</small>
+	<small> ============== 8天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/449" target="paopao-mirror">民警暴力执法：徐纯合真该被一枪毙命？（读者来稿）</a>
 </h2>
@@ -654,7 +654,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
