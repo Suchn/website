@@ -55,7 +55,7 @@
 <p>美国笔会中心表示：中国现在提高了图书的出版预付版税和版税，因此，外国作者和出版商可能做出更多妥协和让步，这对言论自由造成的影响引起了该组织的严重关切。究竟是钱的力量大，还是自由的价值大，想必真正为了写作而写作的作者不会甘心屈从于中国的审查制度，不会情愿自己的作品被面目全非地宰割。</p></body></html>
 </p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/454" target="paopao-mirror">统战新媒体：网信办与中宣部的暗战</a>
 </h2>
@@ -654,7 +654,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
