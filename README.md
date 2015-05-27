@@ -121,7 +121,7 @@
 <p>       中国媒体既要看审查脸色又想喊“新闻理想”，一边抱着市场化运营，一边还得做合格的喉舌，网络新媒体同样逃不出这种纠结的诅咒。主打金融新闻的深圳前海、界面传媒也是同样的性质。另，今年初新华社宣布，将在年内建起800-1000个党政企客户端，最终建成国内最大的国家级移动客户端集群。当时评论界认为，以北京新华社、沪上澎湃+界面、深圳前海传媒形成的党宣新媒体已呈现出“三足鼎立之势”。官媒<a href="http://media.people.com.cn/n/2015/0104/c392155-26320783.html" rel="nofollow">人民网</a>在今年初的《传统媒体与新兴媒体融合发展调研报告》中就已将上述新媒体项目列为标榜。目前看来，专攻“一带一路”宣传、应对新疆问题舆论引导的“无界传媒”也正在跻身前列。意料之内，“媒体转型”最终还是成为了党宣变身（包括逐步被变身党宣），不过宣传费上肯定“不差钱”。</p></body></html>
 </p>
 <p>
-	<small> ============== 6天前</small>
+	<small> ============== 7天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/450" target="paopao-mirror">如何降低帐号被黑客盗取的风险</a>
 </h2>
@@ -654,7 +654,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
