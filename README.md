@@ -570,7 +570,7 @@
 </blockquote>
 <p><br><em>本文英文版原载于<a href="http://globalvoicesonline.org/2015/05/06/chinese-people-seem-to-love-uber-chinese-authorities-not-so-much/" rel="nofollow">全球之声</a>，中文版由泡泡翻译</em></p></p>
 <p>
-	<small> ============== 21天前</small>
+	<small> ============== 22天前</small>
 </p>
 <table>
 	<tr>
@@ -581,7 +581,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
