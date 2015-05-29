@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -291,7 +291,7 @@
 <p>在威权下，有些NGO也许会被取替，有些个人也许会被关进牢里，但自媒体却造就了一个“微选择”的空间，让个人能通过一些细微的选择——资讯选择、信任选择、喜好选择——以结集式微行动去开拓制度以外的空间。</p>
 <p>所谓的境外NGO颜色革命，只是威权心虚的表现。新一波的赋权运动的载体，大概不再是NGO，而是网络社群，以科技来赋权，只要矛盾一天存在，人民有发声的愿望，草根自主，不会因为稳维式的管理而灭。</p></p>
 <p>
-	<small> ============== 10天前</small>
+	<small> ============== 11天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/447" target="paopao-mirror">二十六年算总账  浦志强被正式公诉</a>
 </h2>
@@ -581,7 +581,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
