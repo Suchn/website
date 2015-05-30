@@ -581,7 +581,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -598,7 +598,7 @@
 ## 免翻墙镜像:
 
 <ul>
-<li><a href="https://d2r1c5xo38l52.cloudfront.net/">https://d2r1c5xo38l52.cloudfront.net/</a></li>
-    <li><a href="https://dnsi82mt3se37.cloudfront.net/">https://dnsi82mt3se37.cloudfront.net/</a></li>
+<li><a href="https://dnsi82mt3se37.cloudfront.net/">https://dnsi82mt3se37.cloudfront.net/</a></li>
     <li><a href="https://d3laxhgj03npwn.cloudfront.net/">https://d3laxhgj03npwn.cloudfront.net/</a></li>
+    <li><a href="https://d2r1c5xo38l52.cloudfront.net/">https://d2r1c5xo38l52.cloudfront.net/</a></li>
     </ul>
