@@ -133,7 +133,7 @@
 <p>我们在等待更多的关于预测监视系统的细节信息之时，更应该担心那些因为发布不良内容和“极端主义资料”而被制裁的社交网络用户。克里姆林宫给社交媒体和其他网站施压，意图获取俄罗斯内部的用户数据，还让他们删除越来越多的和政治相关的内容。这么看来，可以预见的监控可能是俄国活动者们在争取网络言论时需要对付的事情之一。</p>
 <p><em>本文经授权翻译，英文版原载于<a href="http://globalvoicesonline.org/2015/05/19/russia-launches-predictive-system-for-monitoring-protest-activity-online/" rel="nofollow">全球之声</a></em></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/456" target="paopao-mirror">中国民主人士上马来西亚黑民单?：黄之锋回应被拒入境</a>
 </h2>
@@ -581,7 +581,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
