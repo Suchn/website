@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -488,7 +488,7 @@
 <p>      长期审查也同样造成了人与人之间的互信程度低下，表达受限，人们彼此之间的理解和认同指数下降，隔阂感让原有共识无法如常凝聚。相关分析在《<a href="https://pao-pao.net/article/372" rel="nofollow">网络管制的原生和次生危害 </a>》系列话题中有详细介绍。</p>
 <p>      社交网络上的半封闭式群体互动，最终都会沦为小圈子，或继而出现细化圈子，圈子效应在一定程度上削弱了独立思考能力和独立表达意识。相关社交网络弊端的课题正在为很多心理学和传播学研究人士所关注。</p></p>
 <p>
-	<small> ============== 19天前</small>
+	<small> ============== 20天前</small>
 </p>
 <table>
 	<tr>
@@ -499,7 +499,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
