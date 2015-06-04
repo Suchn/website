@@ -249,7 +249,7 @@
 <p> </p>
 <p><em>本文转载自<a href="http://www.chengmingmag.com/t357/select/357sel10.html" rel="nofollow">动向杂志</a></em></p></p>
 <p>
-	<small> ============== 7天前</small>
+	<small> ============== 8天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/458" target="paopao-mirror">官方民间两个舆论场的正面交火</a>
 </h2>
