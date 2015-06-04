@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -51,7 +51,7 @@
 <div><img height="480" width="270" typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/styles/large/public/he_cha_zhe_.jpeg?itok=O8JFYL0O" alt="" title=""><br> </div>
 <div>昨天有一位微信用户在朋友圈发布自己被喝茶的消息被截屏，图中显示，该网友表示自己因“微博翻墙消息被传唤”，应该是情急之下没写明白，有可能指的是在微博传播翻墙软件，也有可能是指在微博发布了墙外资 讯。但一时无法联系到本人问明因由。这些截图从墙内传到了墙外，引来很多推特用户的关注，评论中也有一些网友就此重提“远离微博”的建议。该观点一直被很 多墙外网友所公认，也曾多次被提及，鼓励更多人翻墙、投身推特中文网。但至少目前看来，现实与预期是相反的，很多早年推特的活跃用户已淡推，而转向投入微 博和微信，且根据小世界效应原理，他们至少带动了三度分隔网络关系范围内的绝大部分人。或可暂时比较理想化的认为：大家意识到微博将死，希望在墙内平台挣 扎出最后一丝语话份额。</div></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/446" target="paopao-mirror">中国民权组织深受电子间谍攻击：专访公民实验室负责人</a>
 </h2>
@@ -278,7 +278,7 @@
 <p>       当局宣传部门对五毛水军的调用在每一个敏感热点之下都呈现惊人的规模，五毛出没的密集程度也已成为民间判断一个话题“被敏感”程度的重要指标。据悉，近期<a href="https://pao-pao.net/article/449" rel="nofollow">庆安枪案</a>的话题中，腾讯客户端短时内就出现了七万多条五毛评论，一位新来的网站编辑被震惊到了，私下表示：“见识了我党干预舆论的能力……”。据评论界粗略计算，全国大致应有200余万雇佣水军，自干五无法统计，再加上统战对象，相比下坚定的异议群体显得无比微小。但民间对五毛的鉴别能力普遍不低，公开平台上的言论基本都很容易甄别。比较难以防范的是渗透和挑拨，<a href="https://pao-pao.net/article/438" rel="nofollow">本网近期曾有报道</a>，五毛渗透微信群聊污染舆论空间，拉拢、培植自干五的现象。群聊的形式比公开平台更具亲密感，环境气氛方面为渗透提供了便利，由于网络特殊的隐秘性加之人群对负面舆论的敏感，挑拨的操作较现实中更易进行。但也不必草木皆兵，只要谨慎添加陌生人、大型或不熟悉的群聊酌情发言，在对群成员的选择上多些考虑，以及能在圈子化生态下保持自我和清醒的判断力，就基本可以防患。</p>
  </div></div></div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/yu_lun_chang_.jpg" width="331" height="260"></div></div></div><div><div>Tags: </div><div><div><a href="https://pao-pao.net/tags/296" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">舆论管控</a></div><div><a href="https://pao-pao.net/tags/156" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">五毛</a></div><div><a href="https://pao-pao.net/tags/6" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">翻墙</a></div><div><a href="https://pao-pao.net/tags/359" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">青年</a></div></div></div><div><div>Promotional Title: </div><div><div>官方民间两个舆论场的正面交火</div></div></div></p>
 <p>
-	<small> ============== 7天前</small>
+	<small> ============== 8天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/457" target="paopao-mirror">俄发布“预测系统”监视网上抗议活动</a>
 </h2>
@@ -393,7 +393,7 @@
 <p>       早前一度轰轰烈烈的、“立志打造中国第一时政品牌”的澎湃新闻已确信为党宣在新媒体的实验性项目，上海地方及中宣部门给澎湃的核心任务就是：如何在数字阅读环境下继续占领舆论阵地。澎湃新闻初期落实到位的投资就高达3亿到4亿元，无疑大手笔。</p>
 <p>       中国媒体既要看审查脸色又想喊“新闻理想”，一边抱着市场化运营，一边还得做合格的喉舌，网络新媒体同样逃不出这种纠结的诅咒。主打金融新闻的深圳前海、界面传媒也是同样的性质。另，今年初新华社宣布，将在年内建起800-1000个党政企客户端，最终建成国内最大的国家级移动客户端集群。当时评论界认为，以北京新华社、沪上澎湃+界面、深圳前海传媒形成的党宣新媒体已呈现出“三足鼎立之势”。官媒<a href="http://media.people.com.cn/n/2015/0104/c392155-26320783.html" rel="nofollow">人民网</a>在今年初的《传统媒体与新兴媒体融合发展调研报告》中就已将上述新媒体项目列为标榜。目前看来，专攻“一带一路”宣传、应对新疆问题舆论引导的“无界传媒”也正在跻身前列。意料之内，“媒体转型”最终还是成为了党宣变身（包括逐步被变身党宣），不过宣传费上肯定“不差钱”。</p></p>
 <p>
-	<small> ============== 14天前</small>
+	<small> ============== 15天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/450" target="paopao-mirror">如何降低帐号被黑客盗取的风险</a>
 </h2>
@@ -475,7 +475,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
