@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -142,7 +142,7 @@
 <div><img src="http://mmbiz.qpic.cn/mmbiz/icsn1Zo6n6c26VeIJQ8T8j76bafOmUdeicfrez6ia4hXfzD3eN9KFOY94nkOuKhOlIp1pUm1erbkyTx9Lia3IXvdTQ/0?wx_fmt=jpeg"></div>
 <div> </div></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/468" target="paopao-mirror">今年最受网友欢迎的六四贴纸：“自由64”</a>
 </h2>
