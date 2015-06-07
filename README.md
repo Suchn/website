@@ -10,7 +10,7 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
@@ -333,7 +333,7 @@
 <p>“希望有一天我能回国。”古懿说。</p>
 <p>美国著名中国问题学者Perry Link指出，在美的中国留学生往往都会主动寻找有关六四的信息，但避免与其他中国留学生讨论这一话题。中国留学生在谈到中国时，也总是避免政治话题。“即使是在海外的中国学生，都觉得自己被监视。他们确实有时受到监视。”Perry Link说。</p></p>
 <p>
-	<small> ============== 9天前</small>
+	<small> ============== 10天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/459" target="paopao-mirror">我已习惯与恐惧同睡一张床</a>
 </h2>
@@ -581,7 +581,7 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://dnsi82mt3se37.cloudfront.net/"
+				<td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td>
 	</tr>
 		<tr>
