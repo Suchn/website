@@ -10,8 +10,8 @@
 			target="paopao-rss">RSS <img
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
-			target="paopao-mirror">免翻墙网页版</a></td>
+				<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
 				<td><a href="../../raw/master/x/PaoPaoAndroid.apk"><img
@@ -581,8 +581,8 @@
 			target="paopao-rss">RSS <img
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
-				<td><a href="https://d2r1c5xo38l52.cloudfront.net/"
-			target="paopao-mirror">免翻墙网页版</a></td>
+				<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
 				<td><a href="https://raw.githubusercontent.com/greatfire/z/master/PaoPaoAndroid.apk"><img
