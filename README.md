@@ -11,7 +11,7 @@
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
+		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
@@ -44,7 +44,7 @@
 <p>然而，目前的情况是，当这些走进游戏当中的女性，偶有逾越规则和设定，就很可能面对如五位受压的年轻女性主义者的打压。女性只能是既有设定的镙丝钉。</p>
 <p>FemHack 的活动，被高墙挡在外面，墙内上演性别平等成功模式的折子戏，马云“我反对女性主义”成为“女人能顶半边天”的原则，多么美好，多么唏嘘。</p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/470" target="paopao-mirror">维权律师微博被封号 网信办来电解释</a>
 </h2>
@@ -97,7 +97,7 @@
 <h2><strong>新闻界</strong></h2>
 <p>此书揭露了监视国家、大众传媒和统治精英的本质，其重要性不应被低估。斯诺登所作所为的重要性，以及他承受的风险，都极具揭示意义。也许书中的结论没有提到应如何组织一场群众运动来对抗加重的监视和压迫及其所保护的精英。但是，这本书以及斯诺登的揭秘为那些正在努力组织这场运动的人提供了极大帮助。不要错失阅读这本书的机会，它会帮助你瞭解1%的保护者正在如何保护他们的利益。它也证明了爱德华‧斯诺登等人有怎样的勇气去揭露他们所发现的错误。<br><br>《无处可藏：爱德华斯诺登、美国国安局和全球监控》，格伦·格林沃尔德 著，大都会出版社出版<br><br><em>本文原载于<a href="http://chinaworker.info/hhk/2015/05/16/10372/" rel="nofollow">中国劳工论坛</a>，文中观点不代表泡泡立场</em></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/469" target="paopao-mirror">某年某月某一天</a>
 </h2>
