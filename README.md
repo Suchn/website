@@ -592,7 +592,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
+		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
