@@ -11,7 +11,7 @@
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
@@ -66,7 +66,7 @@
 <p><em>本文来源于<a href="http://fusion.net/story/132931/if-you-use-the-internet-you-need-a-vpn-heres-why/?utm_source=facebook&utm_medium=social&utm_campaign=fusion&utm_content=link" rel="nofollow">Fushion</a>，中文版由泡泡编译</em></p>
  </div></div></div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/vpn.jpg" width="640" height="395"></div></div></div><div><div>Tags: </div><div><div><a href="https://pao-pao.net/tags/52" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">VPN</a></div><div><a href="https://pao-pao.net/tags/16" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">网络安全</a></div><div><a href="https://pao-pao.net/tags/94" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">加密</a></div></div></div></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/474" target="paopao-mirror">打赏功能和言论自由</a>
 </h2>
@@ -619,7 +619,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
