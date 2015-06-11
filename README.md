@@ -92,7 +92,7 @@
 <p><em>本文来源于<a href="http://fusion.net/story/132931/if-you-use-the-internet-you-need-a-vpn-heres-why/?utm_source=facebook&utm_medium=social&utm_campaign=fusion&utm_content=link" rel="nofollow">Fushion</a>，中文版由泡泡编译</em></p>
  </div></div></div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/vpn.jpg" width="640" height="395"></div></div></div><div><div>Tags: </div><div><div><a href="https://pao-pao.net/tags/52" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">VPN</a></div><div><a href="https://pao-pao.net/tags/16" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">网络安全</a></div><div><a href="https://pao-pao.net/tags/94" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">加密</a></div></div></div></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/474" target="paopao-mirror">打赏功能和言论自由</a>
 </h2>
@@ -414,7 +414,7 @@
 <p>我们才刚刚观察到第一波这种情况，我认为这会变得愈加严重，特别是发展中国家的政府才正首次考虑到网络安全问题。通过斯诺登的曝料，他们看到美国家安全局和其同盟是如何进行监控的，他们可能也想通过购置设备来进行同样的监控。然而<strong>，不同于美国安全局把目标锁定在其他政府和恐怖组织身上，发展中国家的政府会把目标放在那些民权组织上</strong>，因为他们认为这些组织为政府制造麻烦、质疑他们的法案、甚至在争取更大的民主。我认为（网络安全）问题会在短期内会升级。民权组织需要防范于未然，思考在网络安全危机上升的电子环境中如何保护自己。</p>
 </blockquote></p>
 <p>
-	<small> ============== 8天前</small>
+	<small> ============== 9天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/464" target="paopao-mirror">“不诚实使用电脑”恐成港版“寻衅滋事”</a>
 </h2>
@@ -639,7 +639,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
