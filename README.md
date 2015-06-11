@@ -11,7 +11,7 @@
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
@@ -599,7 +599,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
