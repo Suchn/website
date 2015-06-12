@@ -25,6 +25,16 @@
 	
 </table>
 <h2>
+	<a href="https://pao-pao.net/article/566" target="paopao-mirror">给两位诺贝尔和平奖得主的一副画</a>
+</h2>
+<p><p>著名网络漫画家变态辣椒最新创作了一幅“给诺贝尔和平奖获得者”的漫画。泡泡日前邀请一群作家和漫画家，以“给xxx的一封公开信”为题进行创作，空格中可选取任何与“网络”或“言论自由”相关的个人、群体、机构。此漫画是变态辣椒的交稿。<br><br>漫画中，缅甸诺贝尔和平奖得主昂山素季前往探望中国的诺贝尔和平奖得主刘晓波，并问道：“刘先生，还好吗？”</p>
+<p></p><div><img height="368" width="480" typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/styles/large/public/unnamed.jpg?itok=4v9nm6m7" alt="" title=""><div><div><div><a href="https://pao-pao.net/">变态辣椒漫画：两位诺贝尔奖得主的对话</a></div></div></div></div>
+<p>昂山素季于六月十日前往北京访问，受到中国总理李克强、及中国国家主席习近平的接待与会晤。昂山素季倡导缅甸的民主发展，并创立了“全国民主联盟党（LND）”，导致其在过去15年，一直遭缅甸军政府软禁。在2010年11月13日缅甸大选后终于获释。中国过去一直是缅甸军政权的重要支持者。有媒体表示，昂山素季此次访华，意在为其参加总统大选做准备。同时，中共对昂山素季的示好，也被认为是针对当前中缅边界军事冲突上向缅甸政府的施压。<br><br>华盛顿研究机构史汀生中心的东亚项目研究员孙韵认为，既然此次访问能够成行，就说明中国和昂山素季已经就那些敏感的政治问题达成了共识。昂山素季不会在那些涉及中国国内政策的敏感问题上表态。<br><br>而同为诺贝尔和平奖得主的中国作家刘晓波，因参与撰写倡导民主改革的《08宪章》，于2009年12月被以“煽动颠覆国家政权罪”判处有期徒刑11年，目前仍关押在辽宁省锦州监狱。<br><br>变态辣椒告诉泡泡：</p>
+<blockquote><p>这篇漫画，我想送给两位曾经都经历过艰难岁月的诺贝尔和平奖获得者，如今，一位还在坐牢，另外一位也曾经坐过牢的，现在却可以和让那位坐牢的独裁者坐下来谈谈国家大事了。</p>
+</blockquote></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://pao-pao.net/article/477" target="paopao-mirror">自由，来源于争取</a>
 </h2>
 <p><p>       “其实，你有了解得更多的机会，有获得自由言论空间的权利，可以不为逃避那些苛刻的管制手段而焦头烂额。至少目前尚且可以，为什么不充分享受？”一位外网编辑在发现很多大陆网民抱怨链接打不开而拒绝浏览时，这样问；“在国内不争自由的人，我相信即使到了自由国家也无法体会自由到底意味着什么，暂不说那些民主权利，你从来不用推特、脸书，到了西方反而会埋怨微博上为何看不了优酷”，一位旅英华人如是说。</p>
@@ -600,34 +610,6 @@
  </div></div></div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/yu_lun_chang_.jpg" width="331" height="260"></div></div></div><div><div>Tags: </div><div><div><a href="https://pao-pao.net/tags/296" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">舆论管控</a></div><div><a href="https://pao-pao.net/tags/156" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">五毛</a></div><div><a href="https://pao-pao.net/tags/6" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">翻墙</a></div><div><a href="https://pao-pao.net/tags/359" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">青年</a></div></div></div><div><div>Promotional Title: </div><div><div>官方民间两个舆论场的正面交火</div></div></div></p>
 <p>
 	<small> ============== 15天前</small>
-</p><h2>
-	<a href="https://pao-pao.net/article/457" target="paopao-mirror">俄发布“预测系统”监视网上抗议活动</a>
-</h2>
-<p><p><br>文/Tetyana Lokot   翻译/泡泡</p>
-<p>俄罗斯一个亲政府的政治智囊团发布了名为“预测及监视系统”的程序，用以监控社交网络上未经政府许可的集会和游行活动。类似的系统在世界其他地方此前也已被研发，专家质疑这个特殊的系统是否真的有它听上去那么可怕。</p>
-<p>该软件已从5月18日开始试运行，并从一些未认证的社交网络下手，合法性及政治抗议研究中心的负责人Yevgeny Venediktov对亲克里姆林宫的《消息报》吐露。 Venediktov说，该系统仅监视社交网络的关键目标，比如群组或者用户资料。数据会由志愿者收集，并由 “社会学家和政治学家”进行筛选。这些监视会格外注意一些有政治倾向的群组、公民抗议团体以及当地的论坛，还会观察那些“极端主义群体”发表内容的点赞量和转发量。</p>
-<p></p><div><img height="450" width="800" typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/styles/adaptive_image/adaptive-image/public/tu_pian_.jpg?itok=uAFnf1M4" alt="" title=""><div><div><div><a href="http://globalvoicesonline.org/2015/05/19/russia-launches-predictive-system-for-monitoring-protest-activity-online/">图片来源：Demotix</a></div></div></div></div>
-<p><em>（2014年12月，在莫斯科市中心的驯马场广场，一群人在反对党领导人Alexey Navalny的带领下进行了一次未批准的游行</em>）</p>
-<p>Venediktov声称，这项新的软件，叫做“拉普拉斯之魔”（该名引自一个数学设想试验，19世纪的法国学者皮埃尔-西蒙·拉普拉斯以此描述一个无所不知的“恶魔”）。它可以在抗议之前的准备阶段就发现抗议目标，并将信息提供给执法机关、学界以及政府官员。</p>
-<p><strong>预测性监视是怎么运作的？</strong>
-</p><p>Jay Ulfelder，一位与Data-Pop联盟合作研究的政治学家告诉RuNet Echo，用社交媒体的帖子和其他原创内容来准确预测抗议活动，是完全可能的。“尤其是临近事件发生的时候。”</p>
-<p>最老掉牙的监控手段——比如观察特定的社交媒体新鲜事，或者是策划活动的论坛——在很多情况下仍然管用。更复杂一点的版本，则是观察这些空间，以及其他形式的非结构化数据，通过自然语言处理和图像分析的方式，将它们转换成结构化数据，然后用这些统计模块或机器来生成对它们感兴趣的活动的预测。</p>
-<p>Ulfelder举出EMBERS（Early Model Based Event Recognition using Surrogates，一个由美国政府出资建立的预测系统）作为例子，还提到了中国政府如何监视社交媒体，追踪大规模活动，并审查可能引发活动的讨论内容。埃及执法机关也试图建立综合监控系统，来监视社交媒体上那些异见者的言论或者“对公共安全有害”的内容。虽然各种情况下的预测算法都不同，并且也不很明显，不过Ulfelder说，至少还有详细证据“证明它可以做的相当好”。</p>
-<p><strong>都监视些什么呢？</strong>
-</p><p>虽然这个软件现在到底可以监视哪些社交网络，以及这个系统到底有什么能力还不清楚，但Venediktov吐露给《消息报》说他们在打算从九月开始监视Twitter，并且说从“极端主义内容”方面来讲，这个平台是一根最大的眼中钉。</p>
-<blockquote><p>我们做了一些调查，发现这个独特的网络平台不仅在极端主义内容的链接数量上超过其他社交媒体，并且它并没有按照Roscomnadzor（俄罗斯监管部门）的要求删除这些链接。</p>
-</blockquote>
-<p>俄罗斯的活动家和反对党成员，并没有使用克里姆林宫指定的主流媒体，而是使用Twitter、Facebook 还有其他在线社交网络来组织集会，以及讨论关键的社会和政治问题。监视俄国媒体的Roscomnadzor会定期要求这些网络平台删除与被归为“极端主义”政治活动相关的内容，但是这个要求并没有得到贯彻，仅仅几篇网页被撤下了而已。Roscomnadzor因此对Twitter非常不满，因为该公司拒绝满足他们关于撤销问题内容的要求。</p>
-<p><strong>这种威胁有多严重？</strong>
-</p><p>虽然这个新软件是打着创新的旗号出炉的，但是俄国的安全部门早就有了在网络上监视公众言论的工具。比如“语义档案”（Semantic Archive）软件，就是由安全部门和执法机关用来监视主流媒体和互联网的，还包括博客和社交网络。</p>
-<p>Andrei Soldatov，俄国的情报监察网站Agentura.ru的编辑，对RuNet Echo披露说，俄国的监视系统最初是开发来监视“结构化信息”的，如媒体报道之类的。如果把这些系统拿来处理社交媒体内容之类的非结构化数据，则需要相对缩小系统，并使之适用于执行具体任务。另外，据Soldatov说，这些系统只能用来处理公共账号（私人资料页面和被封的Twitter账号不可以），而且就算如此，他们也会经常在获取内容和元数据的时候遇到麻烦，监视Facebook的时候就是这样。</p>
-<p>既然大多监视工具已经被各种政府机构拿来用了，Soldatov认为新的“拉普拉斯之魔”软件“不过是纸老虎”。他说，那个智囊团和Venediktov （他称其为“诺夫哥罗德的跳梁小丑”）无非就是想借此机会发笔横财罢了。</p>
-<blockquote><p>这个调查中心（他指合法性及政治抗议研究中心）并没什么大不了的。在我看来，它是想美化自己的公众形象并且想办法搞到政府经费。俄国的特务机关有自己的系统，比如‘语义档案’。总统办公厅和其它部门也有自己的系统。所以这个Venediktov只不过是在想办法从这棵摇钱树上分一杯羹罢了。</p>
-</blockquote>
-<p>我们在等待更多的关于预测监视系统的细节信息之时，更应该担心那些因为发布不良内容和“极端主义资料”而被制裁的社交网络用户。克里姆林宫给社交媒体和其他网站施压，意图获取俄罗斯内部的用户数据，还让他们删除越来越多的和政治相关的内容。这么看来，可以预见的监控可能是俄国活动者们在争取网络言论时需要对付的事情之一。</p>
-<p><em>本文经授权翻译，英文版原载于<a href="http://globalvoicesonline.org/2015/05/19/russia-launches-predictive-system-for-monitoring-protest-activity-online/" rel="nofollow">全球之声</a></em></p></p>
-<p>
-	<small> ============== 16天前</small>
 </p>
 <table>
 	<tr>
@@ -639,7 +621,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
