@@ -11,7 +11,7 @@
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
@@ -186,7 +186,7 @@
 <div>但国际特赦的William Nee告诉法新社，这份白皮书在某些领域，尤其是言论自由、市民社会和少数民族权益保护等方面，提供的信息与现实不相符。</div>
  </div></div></div><div><div>Image: </div><div><div><img typeof="foaf:Image" src="https://pao-pao.net/sites/pao-pao.net/files/liuxiaoyuan.jpg" width="640" height="480"></div></div></div><div><div>Tags: </div><div><div><a href="https://pao-pao.net/tags/46" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">微博</a></div><div><a href="https://pao-pao.net/tags/23" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">网络审查</a></div><div><a href="https://pao-pao.net/tags/139" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">六四</a></div><div><a href="https://pao-pao.net/tags/71" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">维权者</a></div></div></div></p>
 <p>
-	<small> ============== 6天前</small>
+	<small> ============== 7天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/465" target="paopao-mirror">书评：《无处可藏：爱德华·斯诺登、美国国安局和监控国家》</a>
 </h2>
@@ -621,7 +621,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
