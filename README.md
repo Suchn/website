@@ -11,7 +11,7 @@
 				src="../../raw/master/x/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
+		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
@@ -77,7 +77,7 @@
 <p>       推广负责人甚至做过这样的测试：连续数日密集发布长微博图片，后暂停两日再恢复发送，但点击量没有明显不同，绝大部分浏览来自<a href="https://pao-pao.net/article/421" rel="nofollow">墙外链接的进入</a>。当然，与墙内做推广的账号粉丝量不是很高有一定关系，至少说明取样不充分，但该推广账号的关注者中绝大部分是为异议人士和时政资讯爱好者，也是一个基本近似于网站预期受众群体的观测面。</p>
 <p>       “其实网站最初设计这个长微博功能并非只为了在墙内推广，更有吸引翻墙的预期，不过目前看来，效果并不理想”，推广负责人表示，就如翻墙是一种习惯，不翻墙同样也是很多大陆网民的习惯，无法定义习惯的好坏，只能判断习惯所带来的结果的优劣。<strong>自由高于一切，翻墙方能获得自由，当你说</strong><strong>“</strong><strong>我不需要翻墙</strong><strong>”</strong><strong>也能获知的时候，实际上是拒绝了自由。</strong></p></p>
 <p>
-	<small> ============== 4天前</small>
+	<small> ============== 5天前</small>
 </p><h2>
 	<a href="https://pao-pao.net/article/473" target="paopao-mirror">用VPN就像上网时带上安全套</a>
 </h2>
@@ -610,7 +610,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
+		<td><a href="https://d2r1c5xo38l52.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d2r1c5xo38l52.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
