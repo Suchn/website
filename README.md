@@ -598,7 +598,7 @@
 <p> </p>
 <p><em>本文转载自<a href="http://www.chengmingmag.com/t357/select/357sel10.html" rel="nofollow">动向杂志</a></em></p></p>
 <p>
-	<small> ============== 18天前</small>
+	<small> ============== 19天前</small>
 </p>
 <table>
 	<tr>
@@ -610,7 +610,7 @@
 				src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" />
 		</a></td>
 				
-		<td><a href="https://dnsi82mt3se37.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://dnsi82mt3se37.cloudfront.net/"
+		<td><a href="https://d3laxhgj03npwn.cloudfront.net/" target="paopao-mirror">免翻墙网页版</a></td>		<!-- <td><a href="https://d3laxhgj03npwn.cloudfront.net/"
 			target="paopao-mirror">免翻墙网页版</a></td> -->
 	</tr>
 		<tr>
